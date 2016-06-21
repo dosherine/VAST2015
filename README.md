@@ -12,7 +12,7 @@ The data was saved in json file, which has been clustered using k-means(A cluste
 ### Usage 
 The main view of the system is as follows:
 
-![alt text](/path/to/Demo.png "Title")
+![alt text](DEMO.png "Title")
 
 The time are limited by data, the following time submits are avaliable:
 - **Day**:Fri **Hour**:20 **Minute**:12
